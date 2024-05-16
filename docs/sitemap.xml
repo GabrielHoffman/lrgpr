@@ -1,177 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/404.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/404.html</loc>
   </url>
   <url>
-    <loc>/authors.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/authors.html</loc>
   </url>
   <url>
-    <loc>/index.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/index.html</loc>
   </url>
   <url>
-    <loc>/reference/AIC.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/AIC.html</loc>
   </url>
   <url>
-    <loc>/reference/AIC.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/AIC.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/BIC.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/BIC.html</loc>
   </url>
   <url>
-    <loc>/reference/BIC.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/BIC.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/QQ_plot.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/QQ_plot.html</loc>
   </url>
   <url>
-    <loc>/reference/coefficients.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/coefficients.html</loc>
   </url>
   <url>
-    <loc>/reference/coefficients.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/coefficients.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/convertToBinary.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/convertToBinary.html</loc>
   </url>
   <url>
-    <loc>/reference/cooks.distance.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/cooks.distance.html</loc>
   </url>
   <url>
-    <loc>/reference/cooks.distance.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/cooks.distance.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/criterion.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/criterion.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/cv.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/cv.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/df.residual.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/df.residual.html</loc>
   </url>
   <url>
-    <loc>/reference/df.residual.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/df.residual.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/error.bar.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/error.bar.html</loc>
   </url>
   <url>
-    <loc>/reference/getAlleleFreq.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/getAlleleFreq.html</loc>
   </url>
   <url>
-    <loc>/reference/getAlleleVariance.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/getAlleleVariance.html</loc>
   </url>
   <url>
-    <loc>/reference/getMACHrsq.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/getMACHrsq.html</loc>
   </url>
   <url>
-    <loc>/reference/getMissingCount.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/getMissingCount.html</loc>
   </url>
   <url>
-    <loc>/reference/glmApply.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/glmApply.html</loc>
   </url>
   <url>
-    <loc>/reference/glmApply2.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/glmApply2.html</loc>
   </url>
   <url>
-    <loc>/reference/index.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/index.html</loc>
   </url>
   <url>
-    <loc>/reference/influence.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/influence.html</loc>
   </url>
   <url>
-    <loc>/reference/influence.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/influence.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/leverage.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/leverage.html</loc>
   </url>
   <url>
-    <loc>/reference/leverage.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/leverage.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/lm.influence.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/lm.influence.html</loc>
   </url>
   <url>
-    <loc>/reference/lm.influence.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/lm.influence.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/logLik.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/logLik.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/loss.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/loss.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/lrgprApply.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/lrgprApply.html</loc>
   </url>
   <url>
-    <loc>/reference/plot.criterion.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/plot.criterion.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/plot.cv.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/plot.cv.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/plot.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/plot.html</loc>
   </url>
   <url>
-    <loc>/reference/plot.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/plot.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/predict.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/predict.html</loc>
   </url>
   <url>
-    <loc>/reference/predict.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/predict.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/print.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/print.html</loc>
   </url>
   <url>
-    <loc>/reference/print.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/print.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/print.summary.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/print.summary.html</loc>
   </url>
   <url>
-    <loc>/reference/print.summary.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/print.summary.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/read.fam.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/read.fam.html</loc>
   </url>
   <url>
-    <loc>/reference/read.tfam.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/read.tfam.html</loc>
   </url>
   <url>
-    <loc>/reference/read.tped.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/read.tped.html</loc>
   </url>
   <url>
-    <loc>/reference/residuals.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/residuals.html</loc>
   </url>
   <url>
-    <loc>/reference/residuals.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/residuals.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/rstandard.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/rstandard.html</loc>
   </url>
   <url>
-    <loc>/reference/rstandard.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/rstandard.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/set_missing_to_mean.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/set_missing_to_mean.html</loc>
   </url>
   <url>
-    <loc>/reference/summary.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/summary.html</loc>
   </url>
   <url>
-    <loc>/reference/summary.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/summary.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/vcov.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/vcov.html</loc>
   </url>
   <url>
-    <loc>/reference/vcov.lrgpr.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/vcov.lrgpr.html</loc>
   </url>
   <url>
-    <loc>/reference/wald.html</loc>
+    <loc>http://gabrielhoffman.github.io/lrgpr/reference/wald.html</loc>
   </url>
 </urlset>
