@@ -1,0 +1,80 @@
+v 0.1.12 # September 23, 2019
+  - Add packages to LinkingTo
+  - Fix seg fault error due to int function not returning a value
+  - add to linking code: -lz -lboost_iostreams -lgsl /hpc/packages/minerva-centos7/boost/1.69.0/lib
+
+v 0.1.11 
+v 0.1.10 # June 4, 2019
+  - Make compatible with R 3.6.0
+
+v 0.1.9 # April 5, 2017
+  - Fix small bug in p-values from wald().  Make sure Sigma is symmetric
+
+v 0.1.8 # August 26, 2015
+  - Add documentation that was dropped from the last version
+
+v 0.1.7 # July 10, 2015
+  - Remove formula.tools dependency due to error caused by v1.5.4
+
+v 0.1.6 # January, 29, 2015
+  - Fix issue in convertToBinary() where the function would fail if relative file paths were used
+
+v 0.1.5 # September 9, 2014
+  - Fix issue checking is.nil for big.matrix for some functions
+
+v 0.1.4 # July 31, 2014
+  - In read.fam() / read.tfam(), can now read file with arbitrary extension
+  - convertToBinary() now supports sample names (i.e. row names)
+  - functions getAlleleFreq(), getMissingCount(), getAlleleVariance(), getMACHrsq() now assign names for each entry
+  - Add more information to _alleles file produced by convertToBinary() and simpleAnnotation
+  - Fix issue with set_missing_to_mean() when the number of missing values is 1 for all columns.  Use foreach() instead of sapply()
+
+v 0.1.3 # July 23, 2014
+  - Improve error message in glmApply() and lrgprApply() when features is not a standard R matrix or a FileBacked big.matrix stored as doubles
+
+v 0.1.2 # July 21, 2014
+  - Fix glmApply() and lrgprApply() so that terms argument is used correctly.  Previously there was a bug where it was ignored
+  - Update convertToBinary() to give better description of why a files does not fit the specified format
+
+v 0.1.1
+  - Update error message for plot() of lrgpr() object
+  - Update documentation to say that a big.matrix must be re-attached in each R session
+
+v 0.1.0
+  - Update documentation for glmApply2()
+
+v 0.0.9
+  - Update dependencies
+
+v 0.0.8
+  - Improve documentation
+  - convertToBinary() writes file with coding of alleles
+
+v 0.0.7
+  - Fixed issue in convertToBinary() so that indels in TPED's are treated correctly
+  - Fixed a bug where setting the number of threads to k for lrgprApply() or other functions incidentally restricted the number of threads by all subsequent functional calls
+
+v 0.0.6
+  - in criterion.lrgpr() and cv.lrgpr(), restrict rank to be less than ncol(features) and length(ord)
+
+v 0.0.5 
+  - Update documentation
+  - Fix error in getAlleleFreq, getAlleleVariance that made all returned values 1
+  - Add getMACHrsq to evaluate imputational quality using MACH's r^2 metric 
+
+v 0.0.4
+  - specify columns of features to include/exclude from analysis glmApply() and lrgprApply()
+  - lrgpr() and lrgprApply() now handle low rank SVD produced by svd()
+  - lrgpr() is MUCH faster for large sample sizes
+  - glmApply2() (experimental) implements faster linear regression
+  - Backend changes to processing of binary matrix data on harddrive
+  - Faster cv.lrgpr() and criterion.lrgpr() by not computing right singular vectors
+    - These return objects now compatible with plot()
+
+v 0.0.3
+  - graceful exit from glmApply/lrgprApply when response is empty
+
+v 0.0.2
+  - Add option to suppress progress bar
+  - Throw error when sub.big.matrix is passed as features.  Only matrix and big.matrix are supported
+

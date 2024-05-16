@@ -1,0 +1,19 @@
+Package: lrgpr
+Title: lrgpr
+Version: 0.1.12
+Date: September 23, 2019
+Author: Gabriel E. Hoffman
+Maintainer: Gabriel E. Hoffman <gabriel.hoffman@mssm.edu>
+Description: Fit a Low Rank Gaussian Process Regression (LRGPR) / Linear Mixed
+    Model (LMM) for large datasets.  These models are widely used in
+    statistical genetics as a test of association while correcting for the
+    confounding effects of kinship and population structure.
+Depends: R (>= 3.4.0), methods, Rcpp, RcppGSL, RcppProgress, MASS, BH,
+        doParallel, bigmemory (>= 4.4.7), bigmemory.sri, aod
+LinkingTo: Rcpp, RcppGSL, bigmemory, RcppProgress, BH, methods
+#SystemRequirements: C++98
+URL: http://lrgpr.r-forge.r-project.org/
+License: GPL (>= 2)
+RoxygenNote: 7.3.1
+NeedsCompilation: yes
+Packaged: 2019-09-23 23:48:16 UTC; gabrielhoffman
