@@ -1,0 +1,19 @@
+
+
+url: http://gabrielhoffman.github.io/lrgpr
+
+authors:
+  Gabriel Hoffman:
+    href: http://gabrielhoffman.github.io
+
+template:
+  bootstrap: 5
+  bootswatch: flatly
+  
+  params:
+    docsearch:
+      index_name: lrgpr 
+      
+search:
+  exclude: ['news/index.html']
+
