@@ -185,7 +185,7 @@ set_missing_to_mean = function(A){
 #' # Joint test of coefficients 2:3
 #' wald( fit, terms=2:3)
 #' @export
-lrgpr <- function( formula, decomp, rank=max(ncol(decomp$u), ncol(decomp$vectors)), delta=NULL, nthreads=4, W_til=NULL, scale=TRUE, diagnostic=FALSE){
+lrgpr <- function( formula, decomp, rank=max(ncol(decomp$u), ncol(decomp$vectors)), delta=NULL, nthreads=4, W_til=NULL, scale=TRUE, diagnostic=FALSE, contrasts = NULL){
 
 	#chisq=FALSE
 	rdf=FALSE # Was false before
